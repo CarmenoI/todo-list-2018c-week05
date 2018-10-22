@@ -1,0 +1,26 @@
+body {
+  text-align-last: center;
+  margin-top: 200px;
+  background-image: url('https://timedotcom.files.wordpress.com/2014/05/vladstudio.jpg');
+  background-repeat: no-repeat;
+  background-size:100% 200%;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+section {
+  text-align-last: center;
+}
+
+.checked{
+  color: grey;
+}
+.bar1{
+  display: block;
+}
